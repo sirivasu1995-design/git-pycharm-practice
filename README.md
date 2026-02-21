@@ -11,3 +11,5 @@ This repository is created to practice:
 - Merging
 
 Author: Suresh
+
+Updated directly from GitHub for pull practice.
