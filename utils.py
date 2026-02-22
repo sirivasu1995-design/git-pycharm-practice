@@ -2,4 +2,4 @@
 
 def greet_user(name):
     print(f"Hello, {name}!")
-    print("This message is from feature branch.")
+    print("Message from conflict branch.")
